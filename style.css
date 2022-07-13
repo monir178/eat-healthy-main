@@ -1,6 +1,5 @@
 body {
-    font-family: 'Noto Sans', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Mukta', sans-serif;
 }
 
 .half-width {
@@ -39,6 +38,7 @@ h1 {
 .top-banner {
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
+    background-position: cover;
 
 }
 
@@ -49,6 +49,23 @@ h1 {
 
 .recipies {
     text-align: center;
-    text-decoration: double;
     color: gray;
+}
+
+.shadow-box {
+    box-shadow: 10px 5px 5px black;
+    padding: 50px;
+    background-color: aqua;
+    border-radius: 20px;
+
+}
+
+.recipie-image {
+    padding: 5px;
+    width: 300px;
+    height: 250px;
+}
+
+#chocolate {
+    border-radius: 22px;
 }
