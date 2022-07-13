@@ -1,0 +1,37 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 50px;
+    padding: 30px;
+}
+
+.half-width img {
+    width: 50%;
+
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.Name {
+    color: rgb(255, 153, 0);
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.link-button {
+    background-image: linear-gradient(orange, red);
+    border-radius: 8%;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: black;
+    font-weight: 900;
+}
