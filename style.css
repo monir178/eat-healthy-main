@@ -29,9 +29,20 @@ h1 {
 
 .link-button {
     background-image: linear-gradient(orange, red);
-    border-radius: 8%;
+    border-radius: 40px;
     text-decoration: none;
-    padding: 10px 30px;
-    color: black;
+    padding: 15px 40px;
+    color: antiquewhite;
     font-weight: 900;
+}
+
+.top-banner {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.mid-banner {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
 }
