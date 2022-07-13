@@ -46,3 +46,9 @@ h1 {
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
+
+.recipies {
+    text-align: center;
+    text-decoration: double;
+    color: gray;
+}
